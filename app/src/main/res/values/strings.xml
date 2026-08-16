@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">围棋</string>
+    <string name="pass">虚手</string>
+    <string name="undo">悔棋</string>
+    <string name="score">数子</string>
+    <string name="new_game">新局</string>
+    <string name="settings">设置</string>
+    <string name="black_player">黑方</string>
+    <string name="white_player">白方</string>
+    <string name="captures">提子</string>
+    <string name="ai_thinking">AI 思考中…</string>
+    <string name="illegal_move">禁着点！不可自杀</string>
+    <string name="ko_violation">劫争禁着！请先在他处落子</string>
+    <string name="occupied">此处已有棋子</string>
+    <string name="game_over">对局结束</string>
+    <string name="black_win">黑方胜</string>
+    <string name="white_win">白方胜</string>
+</resources>
